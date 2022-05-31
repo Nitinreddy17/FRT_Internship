@@ -1,4 +1,5 @@
-# FRT_Project
+# FRT_Internship
+
 This is My Future Ready Talent Project Outcome
 
 By Using the Azure Services, i have made a project based prototype and deployed it on both Github as well as Azure Services.
